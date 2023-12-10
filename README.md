@@ -29,3 +29,4 @@ The smart kettle controller operates as follows:
 
 4. **RGB LEDs Feedback:** Two RGB LEDs provide visual feedback on the current temperature status. The color changes based on the temperature, creating a user-friendly interface for monitoring the kettle's condition.
 
+video proof: https://www.youtube.com/watch?v=W3cw922_kPw&t=20s
