@@ -5,8 +5,8 @@
 #include "temp_readings.h"
 #include "leds_control.h"
 
-const char *ssid = "MyAltice 0c20b9";
-const char *password = "7172-green-59";
+const char *ssid = "WI-FI NAME";
+const char *password = "WI-FI PASSWORD";
 
 WebServer server(80);
 
